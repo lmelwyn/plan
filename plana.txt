@@ -1,0 +1,4 @@
+1. What are van der Waals forces and where are the relevant
+2. What is the physical origin of van der Waals forces
+3. List reference to a few of the original article on van der Waals forces
+4. List a few recent books on van der Waals force in molecule and 2D materials
